@@ -1,0 +1,364 @@
+{
+	"main": [
+		"Gemstone of the Ages",
+		"Glowing Sun Shard",
+		"20k AA Experience Crystal",
+		"50k AA Experience Crystal",
+		"Lesser Rainbow Crystal",
+		"Minor Rainbow Crystal",
+		"Greater Rainbow Crystal",
+		"Major Rainbow Crystal",
+		"Greater Lightstone",
+		"Superior Lightstone",
+		"Stone of Impatience",
+		"Essence of Norrath",
+		"Essence of Qvic",
+		"Essence of Cazic Thule",
+		"Essence of Dragons Minor",
+		"Essence of Dragons Major",
+		"Essence of Gods Minor",
+		"Essence of Gods Major",
+		"Essence of The Abyss",
+		"Essence of Anguish",
+		"Essence of Loping Plains",
+		"Essence of Temple Veeshan",
+		"Essence of Old Commons",
+		"Essence of Sunderock",
+		"Bag of Platinum Pieces",
+		"Chest of Platinum",
+		"Big Bag of Platinum",
+		"Big Chest of Platinum",
+		"Scorpion's Spear (Zone-Wide Pull)",
+		"Citrine Gemstone of Vitality I",
+		"The Goblin King's Treasure Chest (Double Loot Instance)",
+		"Bristlebane's Treasure Vault (Triple Loot Instance)"
+	],
+	"tags": {
+		"charms": [
+			{ "Guardian's Upgrade": 25 },
+			{ "Oracle's Upgrade": 25 },
+			{ "Brawler's Upgrade": 25 },
+			{ "Sorcerer's Upgrade": 25 },
+			{ "Guardian's Upgrade v2": 25 },
+			{ "Oracle's Upgrade v2": 25 },
+			{ "Brawler's Upgrade v2": 25 },
+			{ "Sorcerer's Upgrade v2": 25 }
+		],
+		"guardian": [{ "Guardian's Upgrade": 25 }],
+		"oracle": [{ "Oracle's Upgrade": 25 }],
+		"brawler": [{ "Brawler's Upgrade": 25 }],
+		"sorcerer": [{ "Sorcerer's Upgrade": 25 }],
+		"kc": [{ "King's Chest": 8 }],
+		"stone": [{ "Stone of Descent": 1 }]
+	},
+	"zones": {
+		"potimea": {
+			"pages": [
+				{ "Weapon Book 1.5 Page 1 of 10": 1 },
+				{ "Weapon Book 1.5 Page 2 of 10": 1 },
+				{ "Weapon Book 1.5 Page 3 of 10": 1 },
+				{ "Weapon Book 1.5 Page 4 of 10": 1 },
+				{ "Weapon Book 1.5 Page 5 of 10": 1 },
+				{ "Weapon Book 1.5 Page 6 of 10": 1 },
+				{ "Weapon Book 1.5 Page 7 of 10": 1 },
+				{ "Weapon Book 1.5 Page 8 of 10": 1 },
+				{ "Weapon Book 1.5 Page 9 of 10": 1 },
+				{ "Weapon Book 1.5 Page 10 of 10": 1 }
+			]
+		},
+		"frozenshadow": {
+			"main": [
+				"Essence of Frozen Shadow",
+				"Essence of Frozen Shadow II",
+				"Essence of Frozen Shadow III",
+				"Essence of Frozen Shadow IV",
+				"Essence of Frozen Shadow V",
+				"Essence of Frozen Shadow VI",
+				"Essence of Frozen Shadow VII",
+				"Master Essence of Frozen Shadow",
+				"Stone of Heroic Resistance VII"
+			],
+			"keys": [
+				"Crystal Key",
+				"Three Toothed Key",
+				"Frosty Key",
+				"small rusty key",
+				"Bone Finger Key",
+				"Large Metal Key",
+				"Tserrina's Key"
+			]
+		},
+		"qvic": {
+			"main": [],
+			"tokens": [
+				{ "Token of Pixtt Llan Kvish (Quest Item)": 1 },
+				{ "Token of Hexxt lik Klokk (Quest Item)": 1 },
+				{ "Token of Pixtt Sho Val Kgi (Quest Item)": 1 },
+				{ "Token of Sigthinxa Karnkvi (Quest Item)": 1 },
+				{ "Token of Averixx Quimeri (Quest Item)": 1 },
+				{ "Token of Dovin Msha (Quest Item)": 1 },
+				{ "Token of Ptav Msha (Quest Item)": 1 },
+				{ "Token of Lxt Rslav (Quest Item)": 1 },
+				{ "Token of Aganetti the Keeper (Quest Item)": 1 },
+				{ "Token of Rav Karnkki (Quest Item)": 1 },
+				{ "Token of Rav Gernkki (Quest Item)": 1 },
+				{ "Token of Rav Marnkki (Quest Item)": 1 },
+				{ "Token of Hexxt Jkak Mig (Quest Item)": 1 },
+				{ "Token of Mnat Msha (Quest Item)": 1 },
+				{ "Token of Sand Monster (Quest Item)": 1 },
+				{ "Token of Igthinxa Karnkvi (Quest Item)": 1 }
+			],
+			"armorgems": [
+				{ "Flawless Blue Diamond (Quest Item)": 1 },
+				{ "Flawless Diamond (Quest Item)": 1 },
+				{ "Flawless Black Sapphire (Quest Item)": 1 },
+				{ "Flawless Jacinth (Quest Item)": 1 },
+				{ "Flawless Ruby (Quest Item)": 1 },
+				{ "Flawless Sapphire (Quest Item)": 1 },
+				{ "Flawless Fire Emerald (Quest Item)": 2 }
+			],
+			"cloth": [
+				{ "Azure Turban Pattern": 1 },
+				{ "Azure Robe Pattern": 1 },
+				{ "Azure Sleeves Pattern": 1 },
+				{ "Azure Wristband Pattern": 2 },
+				{ "Azure Gloves Pattern": 1 },
+				{ "Azure Pantaloons Pattern": 1 },
+				{ "Azure Boots Pattern": 1 }
+			],
+			"leather": [
+				{ "Forgotten Artist's Cap Pattern": 1 },
+				{ "Forgotten Artist's Gloves Pattern": 1 },
+				{ "Forgotten Artist's Tunic Pattern": 1 },
+				{ "Forgotten Artist's Sleeves Pattern": 1 },
+				{ "Forgotten Artist's Bracelet Pattern": 2 },
+				{ "Forgotten Artist's Leggings Pattern": 1 },
+				{ "Forgotten Artist's Boots Pattern": 1 }
+			],
+			"chain": [
+				{ "Vampire Hunter Coif Pattern": 1 },
+				{ "Vampire Hunter Tunic Pattern": 1 },
+				{ "Vampire Hunter Sleeves Pattern": 1 },
+				{ "Vampire Hunter Bracer Pattern": 2 },
+				{ "Vampire Hunter Gauntlets Pattern": 1 },
+				{ "Vampire Hunter Leggings Pattern": 1 },
+				{ "Vampire Hunter Boots Pattern": 1 }
+			],
+			"plate": [
+				{ "Fallen Saint Helmet Mold": 1 },
+				{ "Fallen Saint Breastplate Mold": 1 },
+				{ "Fallen Saint Vambraces Mold": 1 },
+				{ "Fallen Saint Bracer Mold": 2 },
+				{ "Fallen Saint Gauntlets Mold": 1 },
+				{ "Fallen Saint Greaves Mold": 1 },
+				{ "Fallen Saint Boots Mold": 1 }
+			]
+		},
+		"arthicrex": {
+			"chain": [
+				{ "Fragalot's Coif Pattern": 1 },
+				{ "Fragalot's Tunic Pattern": 1 },
+				{ "Fragalot's Sleeves Pattern": 1 },
+				{ "Fragalot's Bracer Pattern": 2 },
+				{ "Fragalot's Gauntlets Pattern": 1 },
+				{ "Fragalot's Leggings Pattern": 1 },
+				{ "Fragalot's Boots Pattern": 1 }
+			],
+			"cloth": [
+				{ "Abracadabra's Turban Pattern": 1 },
+				{ "Abracadabra's Robe Pattern": 1 },
+				{ "Abracadabra's Sleeves Pattern": 1 },
+				{ "Abracadabra's Wristband Pattern": 2 },
+				{ "Abracadabra's Gloves Pattern": 1 },
+				{ "Abracadabra's Pantaloons Pattern": 1 },
+				{ "Abracadabra's Boots Pattern": 1 }
+			],
+			"leather": [
+				{ "Tight Mesh Tunic Pattern": 1 },
+				{ "Tight Mesh Leggings Pattern": 1 },
+				{ "Tight Mesh Cap Pattern": 1 },
+				{ "Tight Mesh Sleeves Pattern": 1 },
+				{ "Tight Mesh Bracelet Pattern": 2 },
+				{ "Tight Mesh Gloves Pattern": 1 },
+				{ "Tight Mesh Boots Pattern": 1 }
+			],
+			"plate": [
+				{ "Heavy Helmet Mold": 1 },
+				{ "Heavy Breastplate Mold": 1 },
+				{ "Heavy Vambraces Mold": 1 },
+				{ "Heavy Bracer Mold": 2 },
+				{ "Heavy Gauntlets Mold": 1 },
+				{ "Heavy Greaves Mold": 1 },
+				{ "Heavy Boots Mold": 1 }
+			]
+		},
+		"postorms": {
+			"main": [
+				"Fire Crystal",
+				"Water Crystal",
+				"Ice Crystal",
+				"Earth Crystal"
+			]
+		},
+		"hohonora": {
+			"main": [
+				"The Oceanlord Quest Token",
+				"The Faceless Quest Token",
+				"The Prince of Darkness Quest Token",
+				"The Tranquil Quest Token",
+				"Split Paw Quest Token",
+				"The Lightbringer Quest Token",
+				"H-One N-One Quest Token",
+				"The MCP Quest Token"
+			],
+			"pages": [
+				"Augment Book 3.5 Page 1 of 10",
+				"Augment Book 3.5 Page 2 of 10",
+				"Augment Book 3.5 Page 3 of 10",
+				"Augment Book 3.5 Page 4 of 10",
+				"Augment Book 3.5 Page 5 of 10",
+				"Augment Book 3.5 Page 6 of 10",
+				"Augment Book 3.5 Page 7 of 10",
+				"Augment Book 3.5 Page 8 of 10",
+				"Augment Book 3.5 Page 9 of 10",
+				"Augment Book 3.5 Page 10 of 10"
+			],
+			"chain": [
+				{ "Povar Crown Pattern": 1 },
+				{ "Povar Mail Pattern": 1 },
+				{ "Povar Armguards Pattern": 1 },
+				{ "Povar Wristguards Pattern": 2 },
+				{ "Povar Mitts Pattern": 1 },
+				{ "Povar Greaves Pattern": 1 },
+				{ "Povar Boots Pattern": 1 }
+			],
+			"cloth": [
+				{ "Xegony Cowl Pattern": 1 },
+				{ "Xegony Robe Pattern": 1 },
+				{ "Xegony Sleeves Pattern": 1 },
+				{ "Xegony Wristcuffs Pattern": 2 },
+				{ "Xegony Gloves Pattern": 1 },
+				{ "Xegony Breeches Pattern": 1 },
+				{ "Xegony Slippers Pattern": 1 }
+			],
+			"leather": [
+				{ "Fennin Ro Skullcap Pattern": 1 },
+				{ "Fennin Ro Tunic Pattern": 1 },
+				{ "Fennin Ro Sleeves Pattern": 1 },
+				{ "Fennin Ro Wristwraps Pattern": 2 },
+				{ "Fennin Ro Gloves Pattern": 1 },
+				{ "Fennin Ro Pantaloons Pattern": 1 },
+				{ "Fennin Ro Boots Pattern": 1 }
+			],
+			"plate": [
+				{ "Tarew Marr Helm Mold": 1 },
+				{ "Tarew Marr Cuirass Mold": 1 },
+				{ "Tarew Marr Vambraces Mold": 1 },
+				{ "Tarew Marr Wristplates Mold": 2 },
+				{ "Tarew Marr Gauntlets Mold": 1 },
+				{ "Tarew Marr Greaves Mold": 1 },
+				{ "Tarew Marr Boots Mold": 1 }
+			]
+		},
+		"anguish": {
+			"armor": [
+				{ "Anguish Augment Head": 1 },
+				{ "Anguish Augment Chest": 1 },
+				{ "Anguish Augment Arms": 1 },
+				{ "Anguish Augment Wrist": 1 },
+				{ "Anguish Augment Hands": 1 },
+				{ "Anguish Augment Legs": 1 },
+				{ "Anguish Augment Feet": 1 }
+			],
+			"pages": [
+				{ "Augment Book 5.5 Page 1 of 10": 1 },
+				{ "Augment Book 5.5 Page 2 of 10": 1 },
+				{ "Augment Book 5.5 Page 3 of 10": 1 },
+				{ "Augment Book 5.5 Page 4 of 10": 1 },
+				{ "Augment Book 5.5 Page 5 of 10": 1 },
+				{ "Augment Book 5.5 Page 6 of 10": 1 },
+				{ "Augment Book 5.5 Page 7 of 10": 1 },
+				{ "Augment Book 5.5 Page 8 of 10": 1 },
+				{ "Augment Book 5.5 Page 9 of 10": 1 },
+				{ "Augment Book 5.5 Page 10 of 10": 1 },
+				{ "Incomplete Augment Book 5.5": 1 }
+			]
+		},
+		"lopingplains": {
+			"armor": [
+				{ "Loping Plains Head Pattern": 1 },
+				{ "Loping Plains Chest Pattern": 1 },
+				{ "Loping Plains Arms Pattern": 1 },
+				{ "Loping Plains Wrist Pattern": 1 },
+				{ "Loping Plains Gloves Pattern": 1 },
+				{ "Loping Plains Legs Pattern": 1 },
+				{ "Loping Plains Feet Pattern": 1 }
+			],
+			"epic": [
+				{ "Epic Stone 1 of 12": 1 },
+				{ "Epic Stone 2 of 12": 1 },
+				{ "Epic Stone 3 of 12": 1 },
+				{ "Epic Stone 4 of 12": 1 },
+				{ "Epic Stone 5 of 12": 1 },
+				{ "Epic Stone 6 of 12": 1 },
+				{ "Epic Stone 7 of 12": 1 },
+				{ "Epic Stone 8 of 12": 1 },
+				{ "Epic Stone 9 of 12": 1 },
+				{ "Epic Stone 10 of 12": 1 },
+				{ "Epic Stone 11 of 12": 1 },
+				{ "Epic Stone 12 of 12": 1 }
+			]
+		},
+		"hillsofshade": {
+			"main": [
+				{ "Dry Keystone": 1 },
+				{ "Wet Keystone": 1 },
+				{ "Light Keystone": 1 },
+				{ "Heavy Keystone": 1 },
+				{ "Deformed Keystone": 1 },
+				{ "Shaped Keystone": 1 }
+			]
+		}
+	},
+	"characters": {
+		"Thickbrick": [{ "Bashful Crustaceans' Angerbomb": 1 }]
+	},
+	"classes": {
+		"ber": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"brd": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"bst": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"clr": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"dru": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"enc": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"mag": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"mnk": [
+			{ "Angryface Familiar (Halloween Reward)": 1 },
+			{ "Crab Fu: The Way of the Quickening Fists": 1 },
+			{ "Leesette's Kick of Fatality": 1 }
+		],
+		"nec": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"pal": [
+			{ "Angryface Familiar (Halloween Reward)": 1 },
+			{ "Hnooker's Relationship Strategy": 1 }
+		],
+		"rng": [
+			{ "Angryface Familiar (Halloween Reward)": 1 },
+			"Ranger Epic Modification Element"
+		],
+		"rog": [
+			{ "Angryface Familiar (Halloween Reward)": 1 },
+			{ "Over Raided Sneakers": 1 }
+		],
+		"shd": [
+			{ "Bashful Crustaceans' Rebuttal": 1 },
+			{ "Insane Goblin Familiar (Halloween Reward)": 1 }
+		],
+		"shm": [{ "Angryface Familiar (Halloween Reward)": 1 }],
+		"war": [
+			{ "Bashful Crustaceans' Angerbomb": 1 },
+			{ "Bashful Crustaceans' Rebuttal": 1 },
+			{ "Insane Goblin Familiar (Halloween Reward)": 1 }
+		],
+		"wiz": [{ "Angryface Familiar (Halloween Reward)": 1 }]
+	}
+}
